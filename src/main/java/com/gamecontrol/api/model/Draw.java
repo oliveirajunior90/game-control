@@ -1,4 +1,4 @@
-package com.gamecontrol.api.domain.model;
+package com.gamecontrol.api.model;
 
 import javax.persistence.*;
 import java.util.Date;
